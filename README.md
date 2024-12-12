@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/a-robust-recipe-page-using-html-and-css-KfTslizmkm](https://www.frontendmentor.io/solutions/a-robust-recipe-page-using-html-and-css-KfTslizmkm)
+- Solution URL: [https://www.frontendmentor.io/solutions/a-responsive-product-card-component-1J5pPMJosS](https://www.frontendmentor.io/solutions/a-responsive-product-card-component-1J5pPMJosS)
 - Live Site URL: [https://zippy-sable-e5af57.netlify.app](https://zippy-sable-e5af57.netlify.app)
 
 ## My process
