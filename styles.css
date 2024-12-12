@@ -155,5 +155,6 @@ button:focus {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    padding: 2rem;
   }
 }
