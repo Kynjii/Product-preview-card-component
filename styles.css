@@ -49,10 +49,6 @@ img {
   border-radius: 10px 10px 0 0;
 }
 
-.desktop-img {
-  display: none;
-}
-
 .card-content-container {
   padding: 1.5rem;
 }
@@ -138,14 +134,6 @@ button:focus {
     flex-direction: row;
     width: 37.5rem;
     max-height: 28.125rem;
-  }
-
-  .desktop-img {
-    display: block;
-  }
-
-  .mobile-img {
-    display: none;
   }
 
   img {
