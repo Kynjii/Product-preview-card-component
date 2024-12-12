@@ -75,8 +75,10 @@ h1 {
 
 p {
   color: var(--aurometal-saurus);
-  line-height: 1.4375rem;
+  line-height: 1.2rem;
   font-weight: 500;
+  margin-bottom: 1.5rem;
+  margin-top: 0;
 }
 
 div.product-price {
@@ -154,7 +156,7 @@ button:focus {
   .card-content-container {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     padding: 2rem;
   }
 }
