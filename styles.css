@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100dvh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+body {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  font-family: "Montserrat", "Fraunces", sans-serif;
+  font-size: 0.875rem;
+  background-color: var(--cream-bg);
+  line-height: 100%;
+}
+
+
+
+/* STYLE GUIDE */
+:root {
+  /* Main Colors */
+  --white: #ffffff;
+  --cream-bg: #f2eae2;
+  --aurometal-saurus: #6c7289;
+  --deep-aquamarine: #3d8168;
+  --deep-aquamarine-hover: #1a4032;
+  --gunmetal: #1c232b;
+}
+
+/* Main Styling */
+
+/* ============
+        Media Queries
+        =========== */
+
+@media (min-width: 376px) {
+}
+
+@media (min-width: 769px) {
+}
